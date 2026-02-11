@@ -1,1 +1,36 @@
-
+{
+  "packages": [
+    {
+      "name": "package_name",
+      "version": "1.0.0",
+      "description": "A package",
+      "fullname": "Package Name",
+      "icon-small": "https://imgur.com/example-small",
+      "icon-medium": "https://imgur.com/example-medium",
+      "icon-big": "https://imgur.com/example-big",
+      "screenshot": [
+        "https://imgur.com/example-1",
+        "https://imgur.com/example-2"
+      ],
+      "win64": "https://download.link/package_name-win64.zip",
+      "linuxamd64": "https://download.link/package_name-linux-amd64.zip",
+      "linuxarm64": "https://download.link/package_name-linux-arm64.zip",
+      "macossilicon": "https://download.link/package_name-macos-silicon.zip",
+      "macoss": "https://download.link/package_name-macos-intel.zip"
+    },
+    {
+      "name": "winrar",
+      "version": "1.0.0",
+      "description": "Winrar Download.",
+      "fullname": "WinRar",
+      "icon-small": "https://imgur.com/example-small",
+      "icon-medium": "https://imgur.com/example-medium",
+      "icon-big": "https://imgur.com/example-big",
+      "screenshot": [
+        "https://imgur.com/example-1",
+        "https://imgur.com/example-2"
+      ],
+      "win64": "https://www.dropbox.com/scl/fi/8fphba7dxvenpklnmar6i/winrar.zip?rlkey=sr4xq3r7fg0r17cxg765gc1z9&st=uotdqodr&dl=1",
+    }
+  ]
+}
