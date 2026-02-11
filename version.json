@@ -1,1 +1,9 @@
+{
+  "version": "1.0.0",
+  "win64": "https://download.link/sbk-win64.zip",
+  "linuxamd64": "https://download.link/sbk-linux-amd64.zip",
+  "linuxarm64": "https://download.link/sbk-linux-arm64.zip",
+  "macossilicon": "https://download.link/sbk-macos-silicon.zip",
+  "macoss": "https://download.link/sbk-macos-intel.zip"
+}
 
